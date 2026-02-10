@@ -9,6 +9,9 @@
 3. 第三章 线性神经网络：[3.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/3.ipynb)
 4. 第四章 多层感知机：[4.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/4.ipynb)
 5. 第五章 深度学习计算：[5.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/5.ipynb)
+6. 第六章 卷积神经网络：[6.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/6.ipynb)
+7. 第七章 现代卷积神经网络：[7.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/7.ipynb)
+8. 拓展：Causal CNN，Dilated CNN，Transposed CNN，U-Net：[7.5.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/7.5.ipynb)
 
 # Linux - Iceky Prime
-[Linux学习笔记](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/Linux_Learning.md)，主要根据 [鸟叔私房菜](https://zq99299.github.io/linux-tutorial/tutorial-basis/#%E5%86%85%E5%AE%B9%E5%AF%BC%E8%88%AA)
+[Linux学习笔记](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/Linux_Learning.ipynb)，主要根据 [鸟叔私房菜](https://zq99299.github.io/linux-tutorial/tutorial-basis/#%E5%86%85%E5%AE%B9%E5%AF%BC%E8%88%AA)
