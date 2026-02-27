@@ -12,6 +12,8 @@
 6. 第六章 卷积神经网络：[6.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/6.ipynb)
 7. 第七章 现代卷积神经网络：[7.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/7.ipynb)
 8. 拓展：Causal CNN，Dilated CNN，Transposed CNN，U-Net：[7.5.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/7.5.ipynb)
+9. 第八章 循环神经网络：[8.ipynb](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/8.ipynb)
+
 
 # Linux - Iceky Prime
 [Linux学习笔记](https://github.com/IcekyPrime/Deep-Learning-Iceky-Prime/blob/main/Linux_Learning.ipynb)，主要根据 [鸟叔私房菜](https://zq99299.github.io/linux-tutorial/tutorial-basis/#%E5%86%85%E5%AE%B9%E5%AF%BC%E8%88%AA)
